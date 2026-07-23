@@ -2,6 +2,16 @@
 
 Bu repo, YouTube'da yayınladığım **TickerQ: Background Job** eğitim videosunda geliştirilen örnek projeyi içermektedir.
 
+---
+
+<a href="https://www.youtube.com/watch?v=OCCE_iS0gLk" target="_blank">### 🎥 YouTube Videosu</a>
+
+<a href="https://tickerq.net/docs" target="_blank">### 📖 Resmi Doküman</a>
+
+<a href="https://github.com/arcenox-co/TickerQ" target="_blank">### 💻 GitHub Projesi</a>
+
+---
+
 ## 📚 İçerik
 
 Bu eğitimde aşağıdaki konular anlatılmaktadır:
@@ -18,24 +28,6 @@ Bu eğitimde aşağıdaki konular anlatılmaktadır:
 - EF Core entegrasyonu
 - SQL Server üzerinde Job Persistence
 - MaxConcurrency kullanımı
-
----
-
-## 🎥 YouTube Videosu
-
-👉 https://www.youtube.com/watch?v=OCCE_iS0gLk
-
----
-
-## 📖 Resmi Doküman
-
-https://tickerq.net/docs
-
----
-
-## 💻 GitHub Projesi
-
-https://github.com/arcenox-co/TickerQ
 
 ---
 
