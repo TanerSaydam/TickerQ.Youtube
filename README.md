@@ -23,7 +23,7 @@ Bu eğitimde aşağıdaki konular anlatılmaktadır:
 
 ## 🎥 YouTube Videosu
 
-👉 https://www.youtube.com/watch?v=0q1J5k6z2xM
+👉 https://www.youtube.com/watch?v=OCCE_iS0gLk
 
 ---
 
